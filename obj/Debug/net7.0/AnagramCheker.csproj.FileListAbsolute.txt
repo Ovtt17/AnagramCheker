@@ -1,0 +1,15 @@
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\bin\Debug\net7.0\AnagramCheker.exe
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\bin\Debug\net7.0\AnagramCheker.deps.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\bin\Debug\net7.0\AnagramCheker.runtimeconfig.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\bin\Debug\net7.0\AnagramCheker.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\bin\Debug\net7.0\AnagramCheker.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\obj\Debug\net7.0\AnagramCheker.csproj.AssemblyReference.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\obj\Debug\net7.0\AnagramCheker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\obj\Debug\net7.0\AnagramCheker.AssemblyInfoInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\obj\Debug\net7.0\AnagramCheker.AssemblyInfo.cs
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\obj\Debug\net7.0\AnagramCheker.csproj.CoreCompileInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\obj\Debug\net7.0\AnagramCheker.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\obj\Debug\net7.0\refint\AnagramCheker.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\obj\Debug\net7.0\AnagramCheker.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\obj\Debug\net7.0\AnagramCheker.genruntimeconfig.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-10\AnagramCheker\obj\Debug\net7.0\ref\AnagramCheker.dll
